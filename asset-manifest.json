@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-table-data/static/css/main.cb34521a.chunk.css",
-    "main.js": "/react-table-data/static/js/main.aeedd69b.chunk.js",
-    "main.js.map": "/react-table-data/static/js/main.aeedd69b.chunk.js.map",
-    "runtime~main.js": "/react-table-data/static/js/runtime~main.6e8218d0.js",
-    "runtime~main.js.map": "/react-table-data/static/js/runtime~main.6e8218d0.js.map",
-    "static/js/2.7deccb23.chunk.js": "/react-table-data/static/js/2.7deccb23.chunk.js",
-    "static/js/2.7deccb23.chunk.js.map": "/react-table-data/static/js/2.7deccb23.chunk.js.map",
-    "index.html": "/react-table-data/index.html",
-    "precache-manifest.dfa7b23daf7ca4dcd668b20ebed94be6.js": "/react-table-data/precache-manifest.dfa7b23daf7ca4dcd668b20ebed94be6.js",
-    "service-worker.js": "/react-table-data/service-worker.js",
-    "static/css/main.cb34521a.chunk.css.map": "/react-table-data/static/css/main.cb34521a.chunk.css.map"
+    "main.css": "/pracapi/static/css/main.cb34521a.chunk.css",
+    "main.js": "/pracapi/static/js/main.a861b915.chunk.js",
+    "main.js.map": "/pracapi/static/js/main.a861b915.chunk.js.map",
+    "runtime~main.js": "/pracapi/static/js/runtime~main.cbe64ab9.js",
+    "runtime~main.js.map": "/pracapi/static/js/runtime~main.cbe64ab9.js.map",
+    "static/js/2.7deccb23.chunk.js": "/pracapi/static/js/2.7deccb23.chunk.js",
+    "static/js/2.7deccb23.chunk.js.map": "/pracapi/static/js/2.7deccb23.chunk.js.map",
+    "index.html": "/pracapi/index.html",
+    "precache-manifest.70c689ad5d435d413ccdcc6a0c390bde.js": "/pracapi/precache-manifest.70c689ad5d435d413ccdcc6a0c390bde.js",
+    "service-worker.js": "/pracapi/service-worker.js",
+    "static/css/main.cb34521a.chunk.css.map": "/pracapi/static/css/main.cb34521a.chunk.css.map"
   }
 }
